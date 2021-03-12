@@ -1,0 +1,27 @@
+
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(åÇİ“øÿÿÿÿ8Š¥˜Ô.
+v	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ•åí8÷öğŒÔ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Š¥˜Ô.
+a
+java:S2147D"DCombine this catch with the one at line 66, which has the same body.(ï­£Ä8Š¥˜Ô.
+T	java:S106J"9Replace this use of System.out or System.err by a logger.(°”‹8ğÍ¸˜Ô.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(­ˆúéşÿÿÿÿ8ğÍ¸˜Ô.
+]	java:S125_"<This block of commented-out lines of code should be removed.(ß¿ä”üÿÿÿÿ8íŒ†™Ô.
+o
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8ÌëÚ˜Ô.
+Q
+java:S1128
+"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8¼”‘•Ô.
+v	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÜüÀ½8ÍÆöŒÔ.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(¨¹®œ8ƒ‹û˜Ô.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¸Ûúÿÿÿÿ8Çù¤˜Ô.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(€‚´œ8îßé˜Ô.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ìæÊÿÿÿÿÿ8÷ÉÒ™Ô.
+{	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£èÁçüÿÿÿÿ8ğÒñŒÔ.
+v	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î‰µ8½òñŒÔ.
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8¼”‘•Ô.
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õç¼$8Š¥˜Ô.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Š¥˜Ô.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ú·¹¢8Š¥˜Ô.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(¨å¿å8ŸÂ÷™Ô.
